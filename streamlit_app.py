@@ -13,7 +13,7 @@ import av
 
 
 # Created on 02/05/2022 by testruncoder
-# Test code to fix "No Module named 'cv2'" on strealit cloud
+# Test code to duplicate the error "No Module named 'cv2'" on strealit cloud
 
 RTC_CONFIGURATION=RTCConfiguration(
     {'iceServers':[{'urls':['stun:stun.l.google.com:19302']}]}
